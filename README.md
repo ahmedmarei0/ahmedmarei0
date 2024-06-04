@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Marei Mahmoud</h1>
-<h3 align="center">Full Stack Developer</h3>
+  <h1 style="text-align: center;">Ahmed Marei Mahmoud</h1>
+  <h3 style="text-align: center;">Full Stack Php Laravel Developer</h3>
 
 - 🔭 I’m currently working on [TaxiAjwab](http://privacy.taxialjawab.com/)
 
